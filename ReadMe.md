@@ -85,7 +85,13 @@ echo "{\"mcpServers\": {\"local-data-profiler\": {\"command\": \"$(pwd)/.venv/bi
 Restart Claude Desktop, and you will see the 🔨 icon.
 
 ---
+## 📸 Demo & Results
 
+### 1. Claude Desktop in Action
+<!-- You can make the image clickable to your chat link like this: -->
+[![Claude Chat Demo](output_screenshots/8.claude_response_output.png)](https://claude.ai/share/847c5495-1ffa-48f5-8cc7-12ab23996f17)
+
+---
 ## 💡 Example Prompts to Try in Claude
 
 * *"Profile `sample_orders.parquet` and explain the distribution of order amounts."*
